@@ -1,0 +1,19 @@
+{
+    "currentGroupNumber": 0,
+    "currentObjectNumber": 0,
+    "currentScriptNumber": 0,
+    "controllerMidPointLocation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "controllerMidPointRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "geometryGameObjectsToSave": [],
+    "parentGameObjectsToSave": [],
+    "prefabGameObjectsToSave": [],
+    "scriptGameObjectsToSave": []
+}

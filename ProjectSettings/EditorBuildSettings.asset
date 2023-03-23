@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SRLevelEditor.unity
+    guid: 3823d3aa27b22d14aa1cae7faba470de
+  - enabled: 1
+    path: Assets/Scenes/SRLevelEditor_SceneMover.unity
+    guid: 68720892a07587f4f9ff3af3eb19a9a7
+  - enabled: 1
+    path: Assets/Scenes/SRLevelEditor-TestingLevelSR.unity
+    guid: aa3ad5c47dae9e941b827d1b0ed306ec
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: af2124c34cc503547a1cebf613f0a8ab,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 327445e020eb437408308a932ea56644,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 91d4f52eceb16d34b9526b32fb2a9550,
+      type: 2}
